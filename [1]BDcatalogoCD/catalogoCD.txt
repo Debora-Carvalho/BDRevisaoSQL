@@ -1,0 +1,11 @@
+Criar um Catálogo de CDs: “Nossa empresa necessita de um catálogo de CDs,
+pois constantemente recebemos ligações ou visitas à nossa loja. Os clientes
+costumam perguntar o nome, o preço de venda e a gravadora do CD. Desejamos
+criar um cadastro de clientes e saber quais as músicas que determinado cliente
+aprecia e tem o costume de comprar. Cada CD contém diversas faixas em que
+ficam gravadas as músicas, queremos saber a quantidade de músicas gravadas
+no Cd. Cada música tem seu tempo de duração e é importante sabermos os
+autores delas. Além disso, é importante conhecermos outras informações da
+gravadora, visto que na falta de um CD, podemos localizar mais facilmente o local
+onde efetuar a compra. Classificamos os CDs com base nas faixas de preços que
+ele pertence".

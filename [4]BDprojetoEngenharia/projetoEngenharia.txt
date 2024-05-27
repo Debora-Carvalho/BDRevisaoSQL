@@ -1,0 +1,6 @@
+Em uma determinada empresa, são realizados diversos projetos de engenharia que
+alocam os funcionários disponíveis de seu quadro funcional conforme a necessidade,
+ficando esses funcionários alocados a somente um projeto até seu encerramento.
+Uma vez alocado o funcionário a um determinado projeto, deve ser registrada a data
+de início de suas atividades no projeto, assim como o tempo em meses que ele vai ficar alocado. 
+(Obs: utilizar a metodologia case)

@@ -1,0 +1,2 @@
+Estoque do produto: “Desejo criar um sistema que o controle o estoque dos produto, 
+quando necessário solicitar compra ao fornecedor.”

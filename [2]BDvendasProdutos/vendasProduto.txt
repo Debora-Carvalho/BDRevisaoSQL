@@ -1,0 +1,5 @@
+“Sou responsável pelas vendas, quero um Sistema para Vendas dos Cds e outros
+produtos da loja. Os clientes obrigatoriamente devem ser cadastrados se realizarem
+compras a prazo. Todas as compras devem ser devidamente armazenadas e é
+importante informar qual funcionário efetuou a venda, total da compra, número total
+de vendas por vendedores e a data que foi realizada a venda.” Outra situação solicitada: “Emitir nota fiscal".

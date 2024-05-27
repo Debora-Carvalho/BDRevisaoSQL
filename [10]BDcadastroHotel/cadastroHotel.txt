@@ -1,0 +1,10 @@
+Um hotel mantém o cadastro de seus clientes com RG, nome, fone e sexo. Os
+clientes podem reservar quartos do hotel para uma determinada data e por uma certa
+quantidade de dias. Os quartos são cadastrados por número, andar, tipo, descrição e
+preço. Para os quartos já ocupados pelos clientes, é mantida a data/hora de entrada e
+de saída do quarto, isto é, existe um registro diferenciado de quartos reservados e
+quartos ocupados. Para um cliente ficar cadastrado é suficiente que tenha feito uma
+reserva alguma vez embora não tenha ocupado efetivamente o quarto. Os clientes
+que ocupam um quarto do hotel podem solicitar determinador serviços que são
+registrados associados ao quarto ocupado para posterior cobrança. Destes serviços
+são armazenados um código, tipo, descrição e valor.

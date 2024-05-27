@@ -1,0 +1,12 @@
+Site: Possuo um site na internet onde tentamos resolver questões relacionadas
+com informática. Para facilitar a localização das questões, segmentamos as dúvidas
+por plataforma e área de interesse. A partir daí, localizamos os eventos relacionados
+com essa plataforma (como Windows, Unix, Linux) e esse segmento (como pacotes
+prontos Office entre outros, sistema operacional, linguagem de programação). Com
+essas informações, podemos buscar os eventos relacionados à plataforma e ao
+segmento para mostrar ao usuário. Nos eventos armazenamos a data da ocorrência, a
+descrição do problema e da solução apresentada, além do usuário que levantou a
+dúvida. Outros usuários podem fazer comentários (um texto livre) sobre os eventos
+apresentados. Cadastramos todos os usuários com o nome, o endereço e o telefone.
+Cadastramos também os consultores que respondem às questões. Precisamos saber
+o nome, o endereço e o telefone dos consultores. (obs.: metodologia case)

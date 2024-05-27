@@ -1,0 +1,10 @@
+“Sou gerente de uma empresa de treinamento que ministra vários Cursos de caráter
+técnico. Ministramos vários cursos, que são identificados por um código, nome e
+preço. Os cursos “VB com SQLServer2008”, “Delphi com Oracle”, “Java e O.O.” são
+alguns dos nossos cursos mais populares. A duração de cada curso pode variar de
+cinco a dez dias. Um instrutor pode ensinar vários cursos. Robert, Pedro e Rosimery
+são alguns de nossos instrutores. Mantemos aqui o nome e o telefone de cada
+instrutor. A gente cria um curso e aloca um instrutor. Os alunos (clientes) podem
+participar de vários cursos e, vários deles o fazem. O Joseph Brito, da SCA Informática,
+assiste a todo curso que oferecemos. Além do nome, mantemos também o número
+do telefone dos alunos. Alguns de nossos alunos e instrutores não possuem telefone

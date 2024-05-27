@@ -1,0 +1,8 @@
+“Sou um gerente de Recursos Humanos. Preciso manter informações de cada
+funcionário da empresa. As informações de cada funcionário de que necessito são: o
+primeiro nome, o último nome, cargo, sexo, data de admissão, o salário e o
+departamento. Caso o funcionário seja comissionado, preciso saber o valor médio da
+comissão. A Empresa é dividida em departamentos. Cada funcionário é alocado em
+um departamento. Preciso saber o nome do departamento e a sua localização. “Uma
+segunda solicitação: “Desejo armazenar as informações históricas de cada alteração
+realizada no salário.
