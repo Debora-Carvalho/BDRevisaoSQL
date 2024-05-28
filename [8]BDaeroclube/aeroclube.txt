@@ -9,4 +9,4 @@ saída de chegada, bem como o parecer do instrutor sobre o voo. A escola só min
 cursos básicos, e, portanto, não há professores que são alunos de cursos avançados.
 Para emissão do brevê, é necessário que o aluno comprove ter o número de horas
 mínimo de voo, bem como apresente os pareceres dos instrutores sobre as
-habilidades desenvolvidas a cada aula prática
+habilidades desenvolvidas a cada aula prática.
