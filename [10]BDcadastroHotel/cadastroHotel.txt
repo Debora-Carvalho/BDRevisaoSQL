@@ -5,6 +5,6 @@ preço. Para os quartos já ocupados pelos clientes, é mantida a data/hora de e
 de saída do quarto, isto é, existe um registro diferenciado de quartos reservados e
 quartos ocupados. Para um cliente ficar cadastrado é suficiente que tenha feito uma
 reserva alguma vez embora não tenha ocupado efetivamente o quarto. Os clientes
-que ocupam um quarto do hotel podem solicitar determinador serviços que são
+que ocupam um quarto do hotel podem solicitar determinados serviços que são
 registrados associados ao quarto ocupado para posterior cobrança. Destes serviços
 são armazenados um código, tipo, descrição e valor.
